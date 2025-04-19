@@ -1,5 +1,3 @@
-![img.png](img.png)
-
 # Cucumber
 In this article I would like to discuss the acceptance test framework like Cucumber that is Java based and how does this help for testing micro services from business stand point.
 What All you need?
